@@ -48,7 +48,7 @@ pip install pycryptodome
 python Generation_keys_forRSA.py
 ```
 
-➡️ Нәтиже: `keys/private.pem`, `keys/public.pem`
+Нәтиже: `keys/private.pem`, `keys/public.pem`
 
 ---
 
@@ -57,8 +57,8 @@ python Generation_keys_forRSA.py
 python encryptingRSA.py
 ```
 
-➡️ Терминалдан теруге немесе `messages/message.txt` ішінен оқуға болады  
-➡️ Нәтиже: `messages/encrypted_message.txt`
+Терминалдан теруге немесе `messages/message.txt` ішінен оқуға болады  
+Нәтиже: `messages/encrypted_message.txt`
 
 ---
 
@@ -67,7 +67,7 @@ python encryptingRSA.py
 python decryptingRSA.py
 ```
 
-➡️ Нәтиже: `messages/decrypted_message.txt`
+Нәтиже: `messages/decrypted_message.txt`
 
 ---
 
